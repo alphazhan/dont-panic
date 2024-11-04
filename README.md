@@ -20,7 +20,7 @@ Exo was developed as part of the 2024 NASA Space Apps Challenge (Hackathon), whe
 
 ## Tech Stack
 
-The game was crafted using the following _Sveltish_ technologies
+The game was crafted using the following _Sveltish_ technologies:
 
 - **SvelteKit** (with Svelte **4** & Typescript): core framework.
 - **Threlte 7** (with Three.js): 3D web framework in Svelte.
