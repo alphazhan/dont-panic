@@ -10,13 +10,13 @@ It's the year 2984, and Earth has become uninhabitable due to severe global poll
 
 ### Gameplay
 
-In Exo, you’ll investigate a selection of exoplanets, similar to the deduction elements found in games like Among Us. Out of the ten exoplanets, two are potentially habitable, while the others cannot support life. Your goal is to analyze each exoplanet’s data—including attributes like mass, distance from its host star, and surface temperature—to determine if it meets the requirements for habitability. Equipped with Marvin’s capabilities, you’ll gather data, make observations, and take notes to make informed guesses. Once you make a decision about a planet's habitability, the game will reveal if your assessment was correct. It will also provide an explanation to help you understand the factors that influence an exoplanet’s potential to support life. This gameplay loop helps players learn from their choices and spot patterns in different exoplanets, guiding them to better understand which planets might support life.
+In Exo, you’ll investigate a selection of exoplanets, similar to the deduction elements found in games like _Among Us_. Out of the ten exoplanets, two are potentially habitable, while the others cannot support life. Your goal is to analyze each exoplanet’s data—including attributes like mass, distance from its host star, and surface temperature—to determine if it meets the requirements for habitability. Equipped with Marvin’s capabilities, you’ll gather data, make observations, and take notes to make informed guesses. Once you make a decision about a planet's habitability, the game will reveal if your assessment was correct. It will also provide an explanation to help you understand the factors that influence an exoplanet’s potential to support life. This gameplay loop helps players learn from their choices and spot patterns in different exoplanets, guiding them to better understand which planets might support life.
 
 But the adventure doesn’t end there! Imagine talking to exoplanets as if they were unique characters. In Exo, each exoplanet has distinct 4 personalities: playful, funny, angry, and sad. Using a Large Language Model (LLM), players can chat with these planets. By associating each exoplanet’s “mood” with its characteristics and unique circumstances, players leverage associative learning to enrich their exploration. These conversations add depth to the research process and help players form hypotheses about each exoplanet’s habitability. One may even try to guess whether an exoplanet is habitable based on its chat style.
 
 ### Project Background
 
-Exo was developed as part of the 2024 NASA Space Apps Challenge (Hackathon), where our team tackled the _Chronicles of Exoplanet Exploration_ challenge.
+Exo was developed as part of the **2024 NASA Space Apps Challenge** (Hackathon), where our team tackled the _Chronicles of Exoplanet Exploration_ challenge.
 
 ## Tech Stack
 
