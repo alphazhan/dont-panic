@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Exo is an immersive 3D educational game centered around exoplanet exploration and science.
+**Exo** is an immersive 3D educational game centered around exoplanet exploration and science.
 
 ### Plot
 
@@ -16,7 +16,7 @@ But the adventure doesn’t end there! Imagine talking to exoplanets as if they 
 
 ### Project Background
 
-Exo was developed as part of the 2024 NASA Space Apps Challenge (Hackathon), where our team tackled the Chronicles of Exoplanet Exploration challenge.
+Exo was developed as part of the 2024 NASA Space Apps Challenge (Hackathon), where our team tackled the _Chronicles of Exoplanet Exploration_ challenge.
 
 ## Tech Stack
 
@@ -31,7 +31,7 @@ As for chatting with exoplanets, we leveraged a free **Google's Gemini AI**.
 ## Key Features
 
 1. Exoplanet Science Exploration – In-depth, scientifically accurate facts about various exoplanets.
-2. AI-Based Exoplanet Conversations – Engage in interactive chats with exoplanets, and even personalize the experience with a custom Gemini API key.
+2. AI-Based Exoplanet Conversations – Engage in interactive chats with exoplanets, and even personalize the experience with a custom **Gemini API key**.
 3. Atmospheric Space Soundtrack – Enjoy a music space soundtrack that enhances the mood and immerses players in the vastness of space.
 
 ## Quick Start
